@@ -23,7 +23,7 @@ npm run start
 on the way
 
 ## Demo
-Open the [demo page](#)
+Open the [demo page](https://sps-iot.vercel.app/)
 
 ## Contributing
 Currently, not accepting any pull request. But, you can fork this project.
