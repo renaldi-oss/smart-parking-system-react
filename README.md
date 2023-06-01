@@ -4,7 +4,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
 
-![Logo](https://github.com/renaldi-oss/sps-react/blob/main/src/assets/images/logo/logo.png)
+![Logo](./public/logo.png)
 
 
 ## Installation
